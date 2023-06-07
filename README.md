@@ -2,6 +2,8 @@
 
 以太坊（ETH）靓号生成器，利用 `gpu` 进行加速。代码开源，安全可靠 🔥
 
+<img width="100%" src="https://github.com/GG4mida/profanity-ether/blob/master/screenshot/demo.png?raw=true"/>
+
 > Fbi Warning 1: 该程序仅用于学习交流，请勿用于非法用途。
 
 > Fbi Warning 2: 本程序仅在本仓库发布并更新，请勿下载运行其它来路不明的版本，由此造成的一切损失，请自行承担。
@@ -160,7 +162,9 @@ Fbi Warning:
 
 ## 速度
 
-本程序使用阿里云配置：`GPU 计算型 8 vCPU 32 GiB x 1 * NVIDIA V100`。运行速度在 `2.2亿 H/s` 左右：
+本程序使用阿里云配置：`GPU 计算型 8 vCPU 32 GiB x 1 * NVIDIA V100`。运行速度在 `6亿 H/s` 左右：
+
+<img width="100%" src="https://github.com/GG4mida/profanity-ether/blob/master/screenshot/demo.png?raw=true"/>
 
 > 本程序除了在开发机（一台老旧的 Mac），以及上述 `NVIDIA v100` 显卡上经过测试外，未在其它设备上进行速度测试。
 
